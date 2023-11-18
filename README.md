@@ -6,6 +6,18 @@
 * data is collected from diffrent specialized educational institutions that cater to candidates preparing for the demanding CA exam. This involved a collection of approximately 1000 finely crafted multiple-choice questions (MCQs). Which covers the topics which are asked in CA exam.
 * Another set of MCQs is also collected by the same way but this set of MCQs is used for RLHF training which covers around 200 MCQs.
 * And for test set 50 MCQs were collected.
+* Data is collected from following
+<ol>
+  <li>https://edurev.in/p/88787/MCQ-on-Principles-of-Accountancy--with-answers-</li>
+  <li>https://mcqmate.com/topic/777/principles-of-accounting-set-2#google_vignette</li>
+  <li>https://mcqmate.com/topic/891/business-laws#google_vignette</li>
+  <li>https://engineeringinterviewquestions.com/business-mathematics-mcqs-and-answers/</li>
+  <li>https://gstguntur.com/ca-foundation-bck-mcq-questions/#BCK_CA_Foundation_MCQ_Questions_PDF_%7C_CA_Foundation_Business_and_Commercial_Knowledge_MCQs_PDF</li>
+  <li>https://sde.uoc.ac.in/sites/default/files/sde_videos/Strategic%20Financial%20Management.pdf</li>
+  <li>https://zeroinfy.in/pages/ca-final-law-chapterwise-mcqs</li>
+  <li>https://icmai.in/upload/Students/mcq/Final/Paper20.pdf</li>
+  <li>https://icmai.in/upload/Students/mcq/Final/PAPER-16.pdf</li>
+</ol>
 
 #### 2) Explanation Generation for Collected MCQs
 * In order to apply chain-of-thought prompting explanation for the correct answer is required. To generate the explanation ChatGpt was used.
