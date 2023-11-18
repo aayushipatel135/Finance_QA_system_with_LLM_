@@ -24,3 +24,8 @@
   <img src="https://images.ctfassets.net/xjan103pcp94/6fct47v2q8PU36X9A1TUzN/62bf8834293c1ec4a7e591f42ed1ffd1/pretrainined-weights-diagram-lora-blog.png" alt="Loading..." width="33%" height="250px">
   <img src="https://heidloff.net/assets/img/2023/09/qlora.png" alt="Loading..."  width="33%" height="250px">
 </p>
+
+## RLHF Training
+The initial step in Reinforcement Learning from Human Feedback (RLHF) involves creating a finance-specific reward model by fine-tuning BLoom-3b and mistral-7b models and ChatGpt. Responses are categorized based on rewards, and a domain-specific dataset was created. Reward model trained on this dataset and used as a component in Proximal Policy Optimization (PPO) to align model responses with finance-specific expectations.
+
+  <img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Feaa43444-8926-49a9-b44a-f8c570dc7611_826x528.png" alt="Loading..."  width="33%" height="250px">
