@@ -21,10 +21,10 @@
 * Q-LORA which is similar to LORA. Instead of chaning pre-trained weights for specific domain it assigns the new set of weights and train them for specific domain. And uses the already pre-trained weights as the understanding of natural language.
 
  <div style="display: flex;">
-  <div style="flex: 50%;padding: 5px;">
+  <div style="flex: 50%;padding: 5px;height:50px;">
     <img src="https://images.ctfassets.net/xjan103pcp94/6fct47v2q8PU36X9A1TUzN/62bf8834293c1ec4a7e591f42ed1ffd1/pretrainined-weights-diagram-lora-blog.png" alt="Loading...">
   </div>
-  <div style="flex: 50%;padding: 5px;">
+  <div style="flex: 50%;padding: 5px;height:50px;">
     <img src="https://heidloff.net/assets/img/2023/09/qlora.png" alt="Loading..." >
   </div>
 </div>
