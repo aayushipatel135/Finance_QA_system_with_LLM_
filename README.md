@@ -22,9 +22,9 @@
 
  <div style="display: table;">
   <div style="float: left;width: 50%;padding: 5px;">
-    <img src="https://images.ctfassets.net/xjan103pcp94/6fct47v2q8PU36X9A1TUzN/62bf8834293c1ec4a7e591f42ed1ffd1/pretrainined-weights-diagram-lora-blog.png" alt="Loading..." style="width:100%">
+    <img src="https://images.ctfassets.net/xjan103pcp94/6fct47v2q8PU36X9A1TUzN/62bf8834293c1ec4a7e591f42ed1ffd1/pretrainined-weights-diagram-lora-blog.png" alt="Loading..." style="width:50%">
   </div>
   <div style="float: left;width: 50%;padding: 5px;">
-    <img src="https://heidloff.net/assets/img/2023/09/qlora.png" alt="Loading..." style="width:100%">
+    <img src="https://heidloff.net/assets/img/2023/09/qlora.png" alt="Loading..." style="width:50%">
   </div>
 </div>
